@@ -1,13 +1,13 @@
-# @react/bd-location
+# react-bd-location
 
 > It&#x27;s a simple npm package that show divisions, districts and upazilas of Bangladesh.
 
-[![NPM](https://img.shields.io/npm/v/@react/bd-location.svg)](https://www.npmjs.com/package/@react/bd-location) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/react-bd-location.svg)](https://www.npmjs.com/package/react-bd-location) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
 ```bash
-npm install --save @react/bd-location
+npm install --save react-bd-location
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ npm install --save @react/bd-location
 ```jsx
 import React, { Component } from 'react'
 
-import { BDLocations } from '@react/bd-location'
+import { BDLocations } from 'react-bd-location'
 
 class Example extends Component {
   render() {
@@ -56,4 +56,4 @@ Control with some Props.
 
 ## License
 
-MIT © [git+https://github.com/foridpathan/BDLocation-NPM-React-Package.git](https://github.com/git+https://github.com/foridpathan/BDLocation-NPM-React-Package.git)
+MIT © [git+https://github.com/foridpathan/BDLocation-NPM-React-Package.git](https://github.com/foridpathan/BDLocation-NPM-React-Package.git)

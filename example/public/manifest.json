@@ -1,6 +1,6 @@
 {
-  "short_name": "@react/bd-location",
-  "name": "@react/bd-location",
+  "short_name": "react-bd-location",
+  "name": "react-bd-location",
   "icons": [
     {
       "src": "favicon.ico",

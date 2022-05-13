@@ -1,6 +1,6 @@
 import React from 'react'
 
-import { BDLocations } from '@react/bd-location'
+import { BDLocations } from 'react-bd-location'
 
 const App = () => {
   return <BDLocations
