@@ -49,5 +49,9 @@
   },
   "files": [
     "dist"
-  ]
+  ],
+  "dependencies": {
+    "prop-types": "^15.8.1",
+    "react-select": "^5.3.2"
+  }
 }

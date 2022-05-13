@@ -15,12 +15,11 @@ npm install --save @react/bd-location
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from '@react/bd-location'
-import '@react/bd-location/dist/index.css'
+import { BDLocations } from '@react/bd-location'
 
 class Example extends Component {
   render() {
-    return <MyComponent />
+    return <BDLocations onChange={(e) => console.log(e)} />
   }
 }
 ```

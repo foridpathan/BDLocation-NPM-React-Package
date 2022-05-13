@@ -1,10 +1,11 @@
 import React from 'react'
 
-import { ExampleComponent } from '@react/bd-location'
-import '@react/bd-location/dist/index.css'
+import { BDLocations } from '@react/bd-location'
 
 const App = () => {
-  return <ExampleComponent text="Create React Library Example 😄" />
+  return <BDLocations
+    onChange={(e) => console.log(e)}
+    bn={true} />
 }
 
 export default App
