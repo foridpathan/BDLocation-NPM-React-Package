@@ -23,6 +23,36 @@ class Example extends Component {
   }
 }
 ```
+Control with some Props.
+
+| props        | Default       | Type  |
+| -------------|:-------------:|-------:|
+| bn           | false         |Boolean |
+| showLable    | true          |Boolean |
+| className    | ''            |String  |
+| label        | null          |Object  |
+| placeholder  | null          |Object  |
+| onChange     | null          |Function|
+
+## Examples
+```jsx
+<BDLocations
+  onChange={(e) => console.log(e)}
+  bn={true}
+  showLable={true}
+  className=""
+  label={{
+    division: "",
+    district: "",
+    upazila: ""
+  }}
+  placeholder={{
+    division: "",
+    district: "",
+    upazila: ""
+  }}
+/>
+```
 
 ## License
 

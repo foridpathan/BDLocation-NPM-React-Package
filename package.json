@@ -4,7 +4,11 @@
   "description": "It&#x27;s a simple npm package that show divisions, districts and upazilas of Bangladesh.",
   "author": "git+https://github.com/foridpathan/BDLocation-NPM-React-Package.git",
   "license": "MIT",
-  "repository": "git+https://github.com/foridpathan/BDLocation-NPM-React-Package.git/@react/bd-location",
+  "repository": "git+https://github.com/foridpathan/BDLocation-NPM-React-Package.git",
+  "bugs": {
+    "url": "https://github.com/foridpathan/BDLocation-NPM-React-Package/issues"
+  },
+  "homepage": "https://github.com/foridpathan/BDLocation-NPM-React-Package#readme",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
