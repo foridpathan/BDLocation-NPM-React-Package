@@ -8,7 +8,7 @@
   "bugs": {
     "url": "https://github.com/foridpathan/BDLocation-NPM-React-Package/issues"
   },
-  "homepage": "https://github.com/foridpathan/BDLocation-NPM-React-Package#readme",
+  "homepage": "https://react-bd-location.vercel.app/",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",

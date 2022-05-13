@@ -34,6 +34,9 @@ Control with some Props.
 | placeholder  | null          |Object  |
 | onChange     | null          |Function|
 
+## Live Preview
+[React BD Location](https://react-bd-location.vercel.app/)
+
 ## Examples
 ```jsx
 <BDLocations
