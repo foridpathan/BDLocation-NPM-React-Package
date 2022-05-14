@@ -52,7 +52,7 @@
       "id": "9",
       "district_id": "35",
       "name": "Agailjhara",
-      "bn_name": "আগাইলঝরা"
+      "bn_name": "আগৈলঝাড়া"
     },
     {
       "id": "10",
@@ -70,7 +70,7 @@
       "id": "12",
       "district_id": "35",
       "name": "Banaripara",
-      "bn_name": "বানাড়িপারা"
+      "bn_name": "বানারীপাড়া"
     },
     {
       "id": "13",
@@ -88,13 +88,13 @@
       "id": "15",
       "district_id": "35",
       "name": "Mehendiganj",
-      "bn_name": "মেহেদিগঞ্জ "
+      "bn_name": "মেহেন্দিগঞ্জ"
     },
     {
       "id": "16",
       "district_id": "35",
       "name": "Wazirpur",
-      "bn_name": "ওয়াজিরপুর"
+      "bn_name": "উজিরপুর"
     },
     {
       "id": "17",
@@ -154,7 +154,7 @@
       "id": "26",
       "district_id": "37",
       "name": "Nalchity",
-      "bn_name": "নালচিতি"
+      "bn_name": "নলছিটি"
     },
     {
       "id": "27",
@@ -184,7 +184,7 @@
       "id": "31",
       "district_id": "38",
       "name": "Kalapara",
-      "bn_name": "কালাপারা"
+      "bn_name": "কলাপাড়া"
     },
     {
       "id": "32",
@@ -214,7 +214,7 @@
       "id": "36",
       "district_id": "39",
       "name": "Bhandaria",
-      "bn_name": "ভ্যান্ডারিয়া"
+      "bn_name": "ভান্ডারিয়া"
     },
     {
       "id": "37",
@@ -226,7 +226,7 @@
       "id": "38",
       "district_id": "39",
       "name": "Mathbaria",
-      "bn_name": "মাঠবাড়িয়া"
+      "bn_name": "মঠবাড়িয়া"
     },
     {
       "id": "39",
